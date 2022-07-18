@@ -1,0 +1,10 @@
+.todo{
+    display: flex;
+    margin-top: 10%;
+}
+.todo-item{
+    margin-left: -50%;
+}
+button{
+    margin-left: 50%;
+}

@@ -1,0 +1,31 @@
+form{
+    display: flex;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+select{
+    width: 200px;
+    height: 32px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    padding-left: 30px;
+    margin-top: 15px;
+}
+.btn {
+    margin-left: 5px;
+    margin-top: 13px;
+    width: 200px;
+    height: 36px;
+    border-radius: 50px;
+}
